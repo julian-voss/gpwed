@@ -1,0 +1,27 @@
+{
+    "id": "0A4F0561",
+    "path": "~/Dropbox/projects/DISS_new/digitize/gpwed_repo/code/04_merge_state_data.R",
+    "project_path": "code/04_merge_state_data.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1736168804861.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,16",
+        "scrollLine": "0",
+        "docOutlineVisible": "1"
+    },
+    "folds": "19|13|357|0|\n358|13|708|0|\n709|13|1047|0|\n1048|13|1372|0|\n1373|13|1374|0|\n1375|22|1554|0|\n1555|7|1682|0|\n1683|32|1841|0|\n1842|13|2171|0|\n",
+    "lastKnownWriteTime": 1736173427,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1736173460750,
+    "read_only": false,
+    "read_only_alternatives": []
+}

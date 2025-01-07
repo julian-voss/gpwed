@@ -1,0 +1,28 @@
+{
+    "id": "D5478EE6",
+    "path": "~/Dropbox/projects/DISS_new/digitize/gpwed_repo/code/03_build_crosswalks.R",
+    "project_path": "code/03_build_crosswalks.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1736168798734.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,1",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "docOutlineSize": "197"
+    },
+    "folds": "56|26|63|2|\n436|17|477|0|\n463|62|467|2|\n478|32|644|0|\n481|59|529|0|\n532|44|552|0|\n555|50|566|0|\n569|75|643|0|\n645|24|649|0|\n650|14|723|0|\n724|19|761|0|\n",
+    "lastKnownWriteTime": 1736172617,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1736172617370,
+    "read_only": false,
+    "read_only_alternatives": []
+}
