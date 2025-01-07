@@ -1,6 +1,6 @@
 scans/**
 .Rhistory
-.Rproj.user/**
+.Rproj.user/
 !scans/49_btw_nds_municipality/nds_49_48.png
 !scans/49_btw_nds_municipality/nds_49_23.png
 !scans/49_btw_nds_municipality/nds_49_54.png
