@@ -1,6 +1,11 @@
+# Ignore everything in the scans directory
 scans/**
-.Rhistory
-.Rproj.user/
+
+# Allow individual files to be tracked
+!scans/
+
+# Allow exceptions for subdirectories and files
+!scans/*/
 !scans/49_btw_nds_municipality/nds_49_48.png
 !scans/49_btw_nds_municipality/nds_49_23.png
 !scans/49_btw_nds_municipality/nds_49_54.png
@@ -250,3 +255,7 @@ scans/**
 !scans/65_btw_sh_municipality/65_btw_sh_municipality_62.png
 !scans/65_btw_sh_municipality/65_btw_sh_municipality_60.png
 !scans/65_btw_sh_municipality/65_btw_sh_municipality_19.png
+
+
+.Rhistory
+.Rproj.user/
