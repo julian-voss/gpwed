@@ -1,0 +1,22 @@
+Package: gpwed
+Title: Access Tools for the German Post-War Election Database (GPWED)
+Version: 0.1.0
+Authors@R: 
+    person("Julian", "Voss", email = "julian.voss@uos.de", 
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0006-6902-4053"))
+Description: Provides access to the German Post-War Election Database (GPWED), 
+    a national database of harmonized municipal-level election results for West Germany’s 
+    first six federal elections between 1949 and 1969.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: R (>= 4.0.0)
+Imports: 
+    dplyr,
+    readr,
+    stringr,
+    tibble
+
